@@ -1,3 +1,6 @@
 [submodule "lib/spacetime"]
 	path = lib/spacetime
 	url = https://github.com/spencermountain/spacetime.git
+[submodule "assets/mytests"]
+	path = assets/mytests
+	url = https://github.com/siz184/mytests.git
